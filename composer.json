@@ -1,6 +1,6 @@
 {
-    "name": "dietcake/dietcake-twig-view",
-    "description": "Lorem ipsum",
+    "name": "xcezx/dietcake-twig-view",
+    "description": "Twig template engine for Dietcake",
     "license": "MIT",
     "authors": [
         {
