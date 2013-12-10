@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phpunit
+    bootstrap="./vendor/autoload.php">
+  <testsuite name="Test Suite">
+    <directory suffix="Test.php">tests/</directory>
+  </testsuite>
+  <php>
+    <const name="VIEWS_DIR" value="./tests/views/" />
+  </php>
+</phpunit>

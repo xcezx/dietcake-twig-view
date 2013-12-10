@@ -1,0 +1,27 @@
+{
+    "name": "dietcake/dietcake-twig-view",
+    "description": "Lorem ipsum",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xcezx",
+            "email": "main.xcezx@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "v1.15.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/xcezx/dietcake.git"
+        }
+    ],
+    "require-dev": {
+        "dietcake/dietcake": "dev-composerize",
+        "phpunit/phpunit": "~3.7"
+    }
+}
