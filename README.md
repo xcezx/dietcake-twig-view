@@ -1,5 +1,7 @@
 # Twig template view for Dietcake
 
+[![Build Status](https://travis-ci.org/xcezx/dietcake-twig-view.png?branch=master)](https://travis-ci.org/xcezx/dietcake-twig-view)
+
 ## Requirements
 
 - PHP 5.3
